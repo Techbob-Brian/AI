@@ -4,7 +4,7 @@ AI Game experience
 https://en.akinator.com/theme-selection
 
 AI history
-https://youtu.be/056v4OxKwlI
+[https://youtu.be/056v4OxKwlI](https://www.youtube.com/watch?v=yaL5ZMvRRqE&ab_channel=PlattformLernendeSysteme)
 
 AI News - Lambda
 
