@@ -10,7 +10,10 @@ AI News - Lambda
 
 
 AI Example - 作曲
-https://youtu.be/xk1-mQoFtAs
+https://youtube.com/shorts/xk1-mQoFtAs?feature=share
+
+Play:
+https://artsandculture.google.com/experiment/assisted-melody/cAGcgh18Zi7DqQ
 
 AI Example - DALL-E 畫畫
 https://youtu.be/uAEiYSV_O5A
