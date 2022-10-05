@@ -17,6 +17,8 @@ https://artsandculture.google.com/experiment/assisted-melody/cAGcgh18Zi7DqQ
 
 AI Example - DALL-E 畫畫
 https://youtu.be/uAEiYSV_O5A
+Play: 
+www.craiyon.com
 
 AI外掛 玩遊戲例子 ( 0:39 , 1:49, 5:08)
 https://youtu.be/D3ZCsMHyN3A
