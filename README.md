@@ -20,6 +20,9 @@ https://youtu.be/uAEiYSV_O5A
 Play: 
 www.craiyon.com
 
+AI 捉迷藏：
+https://www.youtube.com/watch?v=Z6fjTZAtziQ&ab_channel=%E5%95%BE%E5%95%BE%E9%9E%8B
+
 AI外掛 玩遊戲例子 ( 0:39 , 1:49, 5:08)
 https://youtu.be/D3ZCsMHyN3A
 
