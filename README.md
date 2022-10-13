@@ -26,4 +26,9 @@ https://www.youtube.com/watch?v=Z6fjTZAtziQ&ab_channel=%E5%95%BE%E5%95%BE%E9%9E%
 AI外掛 玩遊戲例子 ( 0:39 , 1:49, 5:08)
 https://youtu.be/D3ZCsMHyN3A
 
+Manual play Pac-Man
+search for pac-man online
+
+AI play pac-man
+http://ai.berkeley.edu/project_overview.html
 
