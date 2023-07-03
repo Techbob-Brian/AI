@@ -2,7 +2,9 @@
 # AI Chapter 1 reference / resources
 
 What is AI, ML. DL
+
 https://www.youtube.com/watch?v=aZqtP8so8dM&ab_channel=%E8%A7%A3%E5%AF%86%E9%81%8A%E4%BF%A0
+
 
 AI Game experience
 https://en.akinator.com/theme-selection
@@ -11,7 +13,6 @@ AI history
 [https://youtu.be/056v4OxKwlI](https://www.youtube.com/watch?v=yaL5ZMvRRqE&ab_channel=PlattformLernendeSysteme)
 
 AI News - Lambda
-
 
 AI Example - 作曲
 https://youtube.com/shorts/xk1-mQoFtAs?feature=share
