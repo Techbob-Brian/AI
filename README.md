@@ -1,6 +1,9 @@
 ### ELhgwmeLtaU2
 # AI Chapter 1 reference / resources
 
+What is AI, ML. DL
+https://www.youtube.com/watch?v=aZqtP8so8dM&ab_channel=%E8%A7%A3%E5%AF%86%E9%81%8A%E4%BF%A0
+
 AI Game experience
 https://en.akinator.com/theme-selection
 
